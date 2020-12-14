@@ -1,6 +1,6 @@
 ## Show C# Visual studio And Rider/Resharper False Behaviour With Generic Types
 
-Notice, i just copy the headers of the classes from larg private library, and remove all implementaions and any class or internface does not belong to this issuee
+Notice, i just copied the headers of the classes from larg private library, and remove all implementaions and any class or internface does not belong to this issuee
 
 but the code here is enogh to reproduce the issue
 
