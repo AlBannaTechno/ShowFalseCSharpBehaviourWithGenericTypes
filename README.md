@@ -1,4 +1,4 @@
-# Show C# Visual studio And Rider/Resharper False Behaviour With Generic Types
+## Show C# Visual studio And Rider/Resharper False Behaviour With Generic Types
 
 ### Rider
 
