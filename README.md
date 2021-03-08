@@ -4,6 +4,8 @@ Notice, i just copied the headers of the classes from larg private library, and 
 
 but the code here is enogh to reproduce the issue
 
+This issue is related to [This Resharper-Track](https://youtrack.jetbrains.com/issue/RSRP-482645)
+
 ### Rider
 
 ![ISSUE_CSHARP_GENERIC_RIDER](https://user-images.githubusercontent.com/13814190/102145266-98284500-3e6f-11eb-80e8-e16d5152a51a.gif)
